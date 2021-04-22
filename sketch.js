@@ -9,7 +9,7 @@ let current;
 let previous;
  
 function setup() {
-  createCanvas(2400, 2300);
+  createCanvas(1920, 2300);
   current = createVector(0,0);
   previous = createVector(0,0);
 };
